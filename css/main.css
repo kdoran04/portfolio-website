@@ -1,0 +1,108 @@
+/***** BASE STYLES *****/
+
+.container {
+  width: 1400px;
+  font-family: 'Roboto', sans-serif;
+  font-weight:400;
+}
+/***** HEADER *****/
+
+header {
+  height:800px;
+  background: url('../img/hero-image.png');
+  background-size: cover;
+}
+
+header h1 {
+  padding:350px 300px 5px 300px;
+  font-family:'Roboto Slab', serif;
+  font-size:60px;
+  font-weight:bold;
+  text-align:center;
+  color:#bdbf09;
+}
+
+header h2 {
+  padding: 5px 200px 0 200px;
+  font-family:'Roboto',sans-serif;
+  font-size:48px;
+  font-weight:normal;
+  text-align:center;
+  clear:both;
+  color:#095256;
+}
+/***** PORTFOLIO *****/
+
+.portfolio {
+  width:1200px;
+  height:975px;
+  overflow:auto;
+}
+.portfolio h3{
+  padding:0 50px;
+  margin:50px 0 75px 0 ;
+  text-align:center;
+  font-family: 'Roboto Slab', serif;
+  font-size: 36px;
+  color:#095256;
+}
+.project-image-1 {
+  margin: 25px;
+  border: 1px solid black;
+  width:600px;
+  float:left;
+}
+
+.project-image-2 {
+  margin: 25px;
+  border: 1px solid black;
+  width:600px;
+  float:left;
+  clear:both;
+}
+
+.project-descrip-1, .project-descrip-2 {
+  width:525px;
+  float:right;
+}
+.project-descrip-1, .project-descrip-2 h4{
+  font-size:24px;
+  font-weight:700;
+  color:#095256;
+}
+.project-descrip-1 h4 span{
+  font-size:24px;
+  font-weight:400;
+  color:#095256;
+}
+
+.project-descrip-2 h4 span{
+  font-size:24px;
+  font-weight:400;
+  color:#095256;
+}
+.project-descript-1 p{
+  font-size:24px;
+  font-weight:400;
+  color:#095256;
+}
+
+
+/*****ABOUT*****/
+.about {
+  background-color: #087e8b;
+}
+
+/*****CONTACT*****/
+
+.connect {
+  background-color: #095256;
+}
+
+.connect h3{
+  padding:0 50px;
+  text-align:center;
+  font-family: 'Roboto Slab', serif;
+  font-size: 36px;
+  color:white;
+}
