@@ -83,7 +83,7 @@ header h2 {
   color:#476a6f;
 }
 .project-descrip-1 h4 span{
-  font-size:16px;
+  font-size:18px;
   font-family: 'Karla', serif;
   text-transform:uppercase;
   font-weight:400;
@@ -91,7 +91,7 @@ header h2 {
 }
 
 .project-descrip-2 h4 span{
-  font-size:16px;
+  font-size:18px;
   font-family: 'Karla', serif;
   text-transform:uppercase;
   font-weight:400;
@@ -100,7 +100,7 @@ header h2 {
 .project-descrip-1 p, .project-descrip-2 p {
   margin: auto 0;
   font-family: 'Karla', sans-serif;
-  font-size:14px;
+  font-size:16px;
   font-weight:400;
   color:#476a6f;
 }
