@@ -63,7 +63,7 @@ header h2 {
   margin: 0 25px 25px 75px;
   border: 4px solid white;
   width:550px;
-  height:314px; 
+  height:314px;
   float:left;
   clear:both;
 }
@@ -170,17 +170,15 @@ header h2 {
 }
 
 .contact {
-  width:400px;
+  width:390px;
   float:left;
-  text-align:center;
-  margin: 50px 25px 25px 25px;
+  margin: 25px 50px 25px 50px;
 }
 
 .contact-2 {
-  width:400px;
+  width:390px;
   float:left;
-  text-align:center;
-  margin: 50px 25px 100px 25px;
+  margin: 25px 0 25px 20px;
 }
 
 .contact-2 ul {
